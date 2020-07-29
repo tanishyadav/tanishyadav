@@ -1,12 +1,12 @@
 # Hi everybody,
 
-## I am<b> Tanish Yadav </b> and I am just 13 (Bill Gates )
+## I am<b> Tanish Yadav </b> and I am just 13 (Bill Gates also started programming at the age of 13)
 <br>
 <h3> I know <b title="Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. ">python</b> and I am currently learning <b title="Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.">docker</b> which is almost done</h3>
 <h3>Then I will start <b title="Kubernetes is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.">kubernetes</b></h3>
 <br>
 <br>
-<h4> You can contact me on <a href=mailto:tanishyadv.jpr@gmail.com?>tanishyadv.jpr@gmail.com</a></h4>
+<h4> You can contact me on <a href=mailto:tanishyadv.jpr@gmail.com>tanishyadv.jpr@gmail.com</a></h4>
 
 
 <!--
