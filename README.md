@@ -1,9 +1,9 @@
-# Hi everybody,
+<h1> Hi everybody,</h1>
 
-## I am<b> Tanish Yadav </b> and I am just 13 (Bill Gates also started programming at the age of 13)
+<h2> I am<b> Tanish Yadav </b></h2>
 <br>
-<h3> I know <b title="Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. ">python</b>, <abbr title="Hyper Text Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr> and I am currently learning <b title="Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.">docker</b> which is almost done</h3>
-<h3>Then I will start <b title="Kubernetes is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.">kubernetes</b></h3>
+<h3> I know <b title="Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace. ">python</b>, <abbr title="Hyper Text Markup Language">HTML</abbr>, <abbr title="Cascading Style Sheets">CSS</abbr> and <b title="Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels.">docker</b>.</h3>
+<h3>Now I will start <b title="Kubernetes is an open-source container-orchestration system for automating computer application deployment, scaling, and management. It was originally designed by Google and is now maintained by the Cloud Native Computing Foundation.">kubernetes</b></h3>
 <br>
 
 <!--
